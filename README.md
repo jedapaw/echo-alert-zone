@@ -332,61 +332,6 @@ npm run deploy
 docker build -t echo-pa-system .
 docker run -p 3000:3000 echo-pa-system
 ```
-
-## 🎥 Demo Script
-
-### For Video Demonstration (2-5 minutes)
-
-**Introduction (30 sec)**
-- Show problem: Rajiv at the station scenario
-- Explain the challenge of multilingual announcements
-
-**Demo Flow (2-3 min)**
-1. Open Echo interface
-2. Record/type emergency announcement in English
-3. Select target languages (Hindi, Tamil, Telugu)
-4. Click "Broadcast" and show processing
-5. Display all translations appearing in real-time
-6. Play audio for each language
-7. Highlight download/text display features
-
-**Technical Showcase (1 min)**
-- Show flowchart and architecture
-- Explain Agora integration points
-- Demonstrate cultural sensitivity features
-
-**Impact Statement (30 sec)**
-- Emphasize inclusivity and safety
-- Show real-world applications
-- Call to action
-
-## 🏆 Judging Criteria Coverage
-
-### Innovation
-- ✅ Novel use of Agora Conversational AI for public safety
-- ✅ Cultural context adaptation layer
-- ✅ Emotion-aware messaging
-
-### Technical Implementation
-- ✅ Proper API integration
-- ✅ Real-time processing pipeline
-- ✅ Scalable architecture
-
-### User Experience
-- ✅ Intuitive interface
-- ✅ Accessibility-first design
-- ✅ Multi-modal output
-
-### Documentation
-- ✅ Comprehensive README
-- ✅ Clear setup instructions
-- ✅ API integration examples
-
-### Social Impact
-- ✅ Addresses critical safety issue
-- ✅ Promotes inclusivity
-- ✅ Protects vulnerable populations
-
 ## 🔒 Security & Privacy
 
 - No permanent storage of announcements
@@ -405,7 +350,7 @@ docker run -p 3000:3000 echo-pa-system
 ## 👥 Team Information
 
 **Project Name:** Echo - Multilingual PA System  
-**Hackathon:** HackFest 2024  
+**Hackathon:** HackFest GDG 2025  
 **Organizer:** Google Developer Groups New Delhi  
 **Sponsor:** Agora  
 **Problem Statement:** LA-04: PA System
