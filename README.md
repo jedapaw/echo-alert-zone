@@ -410,12 +410,6 @@ docker run -p 3000:3000 echo-pa-system
 **Sponsor:** Agora  
 **Problem Statement:** LA-04: PA System
 
-## 📞 Support & Contact
-
-For questions or issues:
-- GitHub Issues: [Create an issue](https://github.com/your-team/echo-pa-system/issues)
-- Email: team@echo-pa.dev
-- Demo: [Live Demo Link]
 
 ## 📄 License
 
